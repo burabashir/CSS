@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+h2{
+    text-transform: uppercase;
+    letter-spacing: 30px;
+    word-spacing: 20px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h3{
+    background-color: rgb(163, 29, 29);
+    text-align: justify;
+    height: 300px;
+    width: 1000px;
+    /* padding */
+    padding: 50px;
+    /* margin */
+    margin: 50px;
+    border-top: 10px double rgb(17, 17, 31);
+    border-right: 10px solid rgb(105, 128, 61);
+    border-bottom: 10px solid green;
+    border-left: 10px solid blue;
+}
+a{
+    background-color: red;
+    text-decoration: underline;
+    padding: 15px;
+    color: white;
+}
+a:hover{
+    background-color: gray;
+    color: aqua;
+}

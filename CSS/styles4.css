@@ -1,0 +1,27 @@
+body{background-color: rgb(43, 41, 41);
+margin: 250px 350px;}
+#div1{
+    background-color: black;
+    height: 150px;
+}
+.div2{
+    background-color: white;
+    height: 25px;
+}
+#div3{
+    background-color: red;
+    height: 150px;
+}
+#div4{
+    background-color: rgb(33, 145, 33);
+    height: 150px;
+}
+div{
+    width: 700px;
+}
+img{
+    width: 150px;
+    height: 325px;
+    margin-left: 260px;
+    margin-bottom: -410px;
+}

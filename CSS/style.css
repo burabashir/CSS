@@ -1,0 +1,48 @@
+body{
+    background-color: cornflowerblue;
+}
+/* this is text formattimg styles */
+h1{
+    color: brown;
+    background-color: rgb(83, 43, 226);
+    letter-spacing: 10px;
+    word-spacing: 50px;
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-indent: 20px;
+    line-height: 1.5;
+/* box model */
+h2{
+    color: bisque;
+    background-color: rgb(46, 30, 30);
+    height: 400px;
+    width: 1000px;
+    /* this is for padding */
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    /* margins */
+    margin-top: 30px;
+    margin-right: 70px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    /* borders */
+    border-top: 10px double rgb(252, 194, 6);
+    border-right: 10px dotted rgb(201, 128, 128);
+    border-bottom: 10px groove rgb(56, 54, 54);
+    border-left: 10px solid rgb(118, 180, 118);
+}
+a{
+color: coral;
+background-color: black;
+text-decoration: none;
+padding: 20px;
+}
+a:hover{
+    color: beige;
+    background-color: red;
+}
